@@ -1,7 +1,7 @@
 numpy
-pandas
+pandas==1.5.3
 scipy
 numba
 matplotlib
 openpyxl
-calmap @ git+https://github.com/jiwidi/calmap.git
+calmap
