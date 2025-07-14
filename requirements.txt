@@ -1,12 +1,6 @@
-streamlit
-geopandas
-pygam
 numpy
 pandas
 scipy
-shapely
-xlsxwriter
 numba
-njit
-plt
-calmap
+matplotlib
+calmap @ git+https://github.com/martijnvermaat/calmap.git
