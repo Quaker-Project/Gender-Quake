@@ -4,3 +4,4 @@ scipy
 numba
 matplotlib
 calmap @ git+https://github.com/martijnvermaat/calmap.git
+openpyxl
