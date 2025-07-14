@@ -3,5 +3,5 @@ pandas
 scipy
 numba
 matplotlib
-calmap @ git+https://github.com/martijnvermaat/calmap.git
 openpyxl
+calmap @ git+https://github.com/jiwidi/calmap.git
