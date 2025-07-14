@@ -8,3 +8,5 @@ shapely
 xlsxwriter
 numba
 njit
+plt
+calmap
